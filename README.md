@@ -20,8 +20,8 @@ This Project is based on content management system build using PHP. This project
 ## If you like my project hit a star button
 To encourage us to continue the development of ColibriCMS do not hesitate to put a star :star: Github. Thank you :heart:
 
-- :point_right: [Site](https://homebrewgr.info)
-- :eyes: [Demo](https://geartek.website/) - This site is on a shared hosting and shows that ColibriCMS can have a good performance even on a shared host.
+- :point_right: [Demo](https://homebrewgr.info)
+- :eyes: [Demo2](https://geartek.website/) - This site is on a shared hosting and shows that ColibriCMS can have a good performance even on a shared host.
 - :mortar_board: [Documentations](https://github.com/ColibriCMS/documentations)
 
 ## Contribution
