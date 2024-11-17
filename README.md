@@ -19,7 +19,11 @@ This Project is based on content management system build using PHP. This project
 12. admin login details username = harshitbansal and Password=12345.
 
 ## If you like my project hit a star button
+To encourage us to continue the development of ColibriCMS do not hesitate to put a star :star: Github. Thank you :heart:
+
+- :point_right: [Site](https://homebrewgr.info)
+- :eyes: [Demo](https://demo.soosyze.com) - This site is hosted in shared hosting and shows that ColibriCMS can run very fast even on a shared host.
+- :mortar_board: [Documentations](https://github.com/ColibriCMS/documentations)
 
 ## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
